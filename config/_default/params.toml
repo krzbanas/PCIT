@@ -93,10 +93,10 @@ address = {street = "5 Research Link", city = "Singapore", region = "", postcode
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "37.4275", longitude = "-122.1697"}
+coordinates = {latitude = "1.29590", longitude = "103.77520"}
 
 # Directions for visitors to locate you.
-directions = "Enter Building 1 and take the stairs to Reception on Floor 2"
+directions = "Look for round brownish building at the end of NUS Car Park 11"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
@@ -108,8 +108,8 @@ appointment_url = "https://calendly.com"
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-#  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/Twitter"},
-#  {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
+#  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/krzbanas"},
+   {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:sls.kb"},
 #  {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
 #  {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
 #  {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
@@ -247,7 +247,7 @@ plugins_js  = []
   #   "mapbox": OpenStreetMap (Mapbox)
   provider = "mapnik"
   api_key = ""
-  zoom = 15
+  zoom = 18
 
 ############################
 ## Marketing

@@ -1,7 +1,7 @@
 +++
 title = "Quantitative investigation of phase retrieval from X-ray phase-contrast tomographic images"
 date = "2008-01-01"
-authors = [Moser, H O and Banas, K and Chen, A and Vo, T N and K, Lian L and Kalaiselvi, S M P and Liu, G and Maniam, S M and Gu, P D and Wilkins, S W and Gureyev, T E and Mayo, S C and Cholewa, M and Li, Z J]
+authors = ["H O Moser" , "K Banas", "A  Chen", "T N Vo", "L K Lian", "S M P Kalaiselvi", "G Liu", "S M Maniam", "P D Gu", "S Wilkins", "T E Gureyev", "S C Mayo","M Cholewa", "Z J Li",
 publication_types = ["2"]
 publication = "Proceedings of SPIE"
 publication_short = "Proceedings of SPIE"

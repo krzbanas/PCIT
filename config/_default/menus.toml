@@ -14,10 +14,10 @@
   weight = 20
 
 [[main]]
-  name = "People"
-  url = "people"
+  name = "Equipment"
+  url = "equipment"
   weight = 30
-
+  
 [[main]]
   name = "Events"
   url = "event"
@@ -27,8 +27,13 @@
   name = "Publications"
   url = "publication"
   weight = 50
+  
+[[main]]
+  name = "People"
+  url = "people"
+  weight = 60
 
 [[main]]
   name = "Contact"
   url = "contact"
-  weight = 60
+  weight = 70

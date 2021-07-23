@@ -2,9 +2,9 @@
 date = "2021-06-01"
 lastmod = "2021-06-01"
 draft = false
-tags = ["tomgraphy"]
-title = "tomgraphy"
-summary = """tomgraphy
+tags = ["tomography"]
+title = "tomography"
+summary = """tomography
 """
 external_link = ""
 math = false

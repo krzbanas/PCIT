@@ -1,7 +1,6 @@
 ---
 title: SYNAPSE Inauguration
 date: 2020-01-15
-math = true
 ---
 
 SYNAPSE Inauguration

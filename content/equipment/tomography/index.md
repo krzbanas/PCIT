@@ -26,7 +26,14 @@ math = false
 
 ## Applications overview
 
-
+- polymer science and engineering
+- life sciences
+- bio-engineering
+- biology and zoology
+- geology
+- water treatment and filtration
+- membrane science
+- materials science
 
 
 
